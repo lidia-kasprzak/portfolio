@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Lidia Kasprzak"
+title: ""
 name: "Lidia Kasprzak"
 description: "Junior Sysadmin / IT Support / Linux"
 url: "https://lidiakasprzak.pl"
@@ -59,9 +59,9 @@ plugins:
 
 author:
   name: "Lidia Kasprzak"
-  avatar: "/assets/images/profile.webp"
-  bio: "Linux, networking, troubleshooting, infrastructure"
-  location: "Poland"
+  avatar: "/assets/images/IMG_20260510_203220blur.jpg"
+  bio: "Junior Sysadmin / IT Support / Linux"
+  location: "Śrem/Poznań"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
