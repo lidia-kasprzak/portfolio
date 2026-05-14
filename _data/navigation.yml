@@ -1,19 +1,11 @@
-<section id="about">
-  <h2>O mnie</h2>
-</section>
-
-<section id="skills">
-  <h2>Umiejętności</h2>
-</section>
-
-<section id="projects">
-  <h2>Projekty</h2>
-</section>
-
-<section id="courses">
-  <h2>Kursy i certyfikaty</h2>
-</section>
-
-<section id="contact">
-  <h2>Kontakt</h2>
-</section>
+main:
+  - title: "O mnie"
+    url: /about/
+  - title: "Projekty"
+    url: /projects/
+  - title: "Umiejętności"
+    url: /skills/
+  - title: "Kursy i Certyfikaty"
+    url: /courses/
+  - title: "Kontakt"
+    url: /contact/
