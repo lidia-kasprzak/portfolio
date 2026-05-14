@@ -3,4 +3,4 @@ permalink: /contact/
 title: ""
 ---
 
-Zapraszam do kontaktu: kontakt@lidiakasprzak.pl
+Zapraszam do kontaktu: mailto:kontakt@lidiakasprzak.pl
