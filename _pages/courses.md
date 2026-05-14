@@ -1,5 +1,5 @@
 ---
-title: "Kursy i Certyfikaty"
+title: ""
 permalink: /courses/
 #layout: posts
 author_profile: true
