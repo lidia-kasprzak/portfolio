@@ -10,9 +10,11 @@ Projekt obejmował modernizację oraz konfigurację 15-letniego komputera stacjo
 
 Modernizacja została przeprowadzona z zachowaniem istniejącej platformy sprzętowej:
 
-procesor Intel Core i3-2120,
-płyta główna Gigabyte H61M-S1,
-zasilacz Chieftec GPA-350S 350W.
+- procesor Intel Core i3-2120,
+  
+- płyta główna Gigabyte H61M-S1,
+  
+- zasilacz Chieftec GPA-350S 350W.
 
 Zakres prac obejmował:
 
