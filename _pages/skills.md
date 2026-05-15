@@ -9,6 +9,7 @@ author_profile: true
 - Git i GitHub
 - Podstawy Bash
 - Troubleshooting systemów i sprzętu
+- Systemy Ticketowe
 - Diagnostyka systemowa (CPU, RAM, logi)
 - Wirtualizacja (QEMU)
 - Instalacja i konfiguracja systemów Linux
@@ -16,3 +17,4 @@ author_profile: true
 - GitHub Pages
 - Vim
 - SQL
+- Microsoft Office
