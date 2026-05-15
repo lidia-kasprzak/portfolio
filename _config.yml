@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Portfolio"
+title: "Lida Kasprzak | Junior IT / Linux"
 name: "Lidia Kasprzak"
 description: "Junior Sysadmin / IT Support / Linux"
 url: "https://lidiakasprzak.pl"
