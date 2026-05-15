@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ""
+title: "Portfolio"
 name: "Lidia Kasprzak"
 description: "Junior Sysadmin / IT Support / Linux"
 url: "https://lidiakasprzak.pl"
@@ -22,7 +22,7 @@ baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: "default"
-search: true
+
 
 # Build settings
 markdown: kramdown
