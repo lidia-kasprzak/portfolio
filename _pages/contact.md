@@ -3,4 +3,4 @@ permalink: /contact/
 title: ""
 ---
 
-Zapraszam do kontaktu: <a href="mailto:kontakt@email.com">kontakt@email.com</a>
+Zapraszam do kontaktu: <a href="mailto:kontakt@lidiakasprzak.pl">kontakt@lidiakasprzak.pl</a>
