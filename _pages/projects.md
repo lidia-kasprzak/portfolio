@@ -4,7 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-#Modernizacja i konfiguracja stacji roboczej
+# Modernizacja i konfiguracja stacji roboczej
 
 Projekt obejmował modernizację oraz konfigurację 15-letniego komputera stacjonarnego w celu poprawy wydajności systemu, przywrócenia odpowiedniego chłodzenia procesora oraz przygotowania środowiska do nauki i codziennej pracy technicznej.
 
