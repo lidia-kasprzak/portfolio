@@ -16,16 +16,25 @@ zasilacz Chieftec GPA-350S 350W.
 
 Zakres prac obejmował:
 
-analizę kompatybilności podzespołów oraz ograniczeń starszej platformy,
-rozbudowę pamięci RAM do 16 GB DDR3 Kingston,
-instalację dedykowanej karty graficznej NVIDIA Quadro K2000,
-konfigurację stanowiska wielomonitorowego,
-wymianę obudowy Medion oraz reorganizację okablowania,
-montaż dysku SSD Goodram CX400 i migrację systemu metodą klonowania,
-konfigurację dodatkowego dysku HDD Seagate Barracuda 500 GB jako przestrzeni backupowej i magazynu danych,
-wymianę pasty termoprzewodzącej procesora,
-rozwiązanie problemu kompatybilności przednich portów USB 3.0 poprzez zastosowanie adaptera USB 2.0 → USB 3.0,
-analizę przepływu powietrza i chłodzenia obudowy.
+-analizę kompatybilności podzespołów oraz ograniczeń starszej platformy,
+
+-rozbudowę pamięci RAM do 16 GB DDR3 Kingston,
+
+-instalację dedykowanej karty graficznej NVIDIA Quadro K2000,
+
+-konfigurację stanowiska wielomonitorowego,
+
+-wymianę obudowy Medion oraz reorganizację okablowania,
+
+-montaż dysku SSD Goodram CX400 i migrację systemu metodą klonowania,
+
+-konfigurację dodatkowego dysku HDD Seagate Barracuda 500 GB jako przestrzeni backupowej i magazynu danych,
+
+-wymianę pasty termoprzewodzącej procesora,
+
+-rozwiązanie problemu kompatybilności przednich portów USB 3.0 poprzez zastosowanie adaptera USB 2.0 → USB 3.0,
+
+-analizę przepływu powietrza i chłodzenia obudowy.
 
 Projekt wymagał samodzielnej analizy dokumentacji technicznej, weryfikacji kompatybilności sprzętu oraz rozwiązywania problemów związanych z modernizacją starszego sprzętu komputerowego przy ograniczonym budżecie.
 
