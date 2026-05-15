@@ -38,6 +38,16 @@ Zakres prac obejmował:
 
 - analizę przepływu powietrza i chłodzenia obudowy.
 
+
 Projekt wymagał samodzielnej analizy dokumentacji technicznej, weryfikacji kompatybilności sprzętu oraz rozwiązywania problemów związanych z modernizacją starszego sprzętu komputerowego przy ograniczonym budżecie.
 
 Efektem projektu było stworzenie funkcjonalnego stanowiska roboczego o znacząco poprawionej wydajności, przystosowanego do pracy wielomonitorowej oraz dalszej nauki technologii IT.
+
+
+<img src="/assets/images/tempbefore.png" alt="tempbefore">
+<img src="/assets/images/oldsetupview.png" alt="oldsetupview">
+<img src="/assets/images/drythermopaste.png" alt="drythermopaste.png">
+<img src="/assets/images/newsetup.png" alt="newsetup">
+<img src="/assets/images/monitorsafter.png" alt="monitorsafter">
+<img src="/assets/images/newneofetch.png" alt="newneofetch">
+
